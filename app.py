@@ -1,5 +1,6 @@
-import numpy as np 
+import numpy as np
+print("its work")
 print ("hello")
-def func(x):
+def func(x=20):
     print (x)
     
